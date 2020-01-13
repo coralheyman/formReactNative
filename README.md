@@ -1,9 +1,9 @@
-###Basic Form with State
+### Basic Form with State
 
-##To Run
+## To Run
 this project uses nodejs and mpm
 
-##Install dependencies
+## Install dependencies
  npm install
 
 ## Run Project
